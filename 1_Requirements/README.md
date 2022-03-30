@@ -17,10 +17,10 @@
 **
 ` `This is the plot of cost of the calculators in ($ ) and time in  years
 
-![Aspose Words 088b8439-ce94-4b00-aac5-64487bb801e5 001](https://user-images.githubusercontent.com/89764315/132320020-ab527da5-1522-4eb4-b645-75367eb9363a.png)
+![Aspose Words 088b8439-ce94-4b00-aac5-64487bb801e5 001](https://ars.els-cdn.com/content/image/3-s2.0-B9780128044056000014-f01-28-9780128044056.jpg)
 
+[https://ars.els-cdn.com/content/image/3-s2.0-B9780128044056000014-f01-28-9780128044056.jpg]
 
-[https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
 **Defining System:** 
 
