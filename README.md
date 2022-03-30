@@ -2,6 +2,12 @@
 This project estimates the total electricity cost for both the domestic and commercial electricity consumers.
 
 
+## Badges
+
+* Build on Linux
+     [![C/C++ CI - Build Status](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml)
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
