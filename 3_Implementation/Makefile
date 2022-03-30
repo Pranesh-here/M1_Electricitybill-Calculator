@@ -1,4 +1,4 @@
 Build:
-	gcc elecbill.c eleclogic.c eleclogic.h test_elecbill.c unity/unity.c -Iunity
+	gcc src/elecbill.c src/eleclogic.c inc/eleclogic.h test/test_elecbill.c unity/unity.c -Iunity
 Run:
 	./a.exe
