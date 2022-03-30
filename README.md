@@ -4,8 +4,8 @@ This project estimates the total electricity cost for both the domestic and comm
 
 ## Badges
 
-* Build on Linux
-     [![C/C++ CI - Build Status](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml)
+* Build [![C/C++ CI - Build Status](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml)
+* Cppcheck Analysis [![Cppcheck-Analysis](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/cppcheck-analysis.yml)
 
 
 ## Folder Structure
