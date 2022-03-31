@@ -11,9 +11,9 @@ void details()
     int unit,number,length=0,value,value1,value2,value3;
     int fine;
     printf("\nDomestic or Commercial Tariff: ");
-    scanf("%s",tariff);
+    scanf("%99s",tariff);
     printf("\nEnter your name/ Industry Name: ");
-    scanf("%s",name);
+    scanf("%99s",name);
     printf("Enter your last 4-digit number of Customer Number: ");
     scanf("%d",&number);
     value=strcmp(tariff,"domestic");
