@@ -35,7 +35,7 @@ double do_billcalculator(int unit,int fine)
         }
     }
 
-    else if(unit>500)
+    else
     {
         float duty=167.2;
         int fixed_charges=50;
