@@ -23,3 +23,9 @@ Folder             | Description
 
 1. Faced many bugs because this is first application that can be used for domestic and commercial consumers to calculate the electricity bill
 2. Faced challenges in calculating bill using equations.
+
+
+## Refernces helped this project
+
+* [TNEB Unit Details](https://www.electrical4u.net/calculator/tneb-bill-calculator-tneb-reading-calculator/)
+* [Domestic Bill Penalty Details](https://www.mobikwik.com/tneb-tamilnadu-electricity-bill-payment#:~:text=What%20is%20the%20penalty%20for,Nadu%20Electricity%20Supply%20Code%2C%202004.)
