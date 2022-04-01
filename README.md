@@ -11,7 +11,7 @@ Build | Cppcheck Analysis | Codacy- Static Code Analysis | Codiga- Static Analys
 
 Unity Test | Git Inspector
 -----------------| ----------------
-[![Unit Testing - Unity](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml)
+[![Unit Testing - Unity](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
