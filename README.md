@@ -9,6 +9,9 @@ Build | Cppcheck Analysis | Codacy- Static Code Analysis | Codiga- Static Analys
 [![C/C++ CI - Build Status](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/c-cpp.yml) | [![Cppcheck-Analysis](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/cppcheck-analysis.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b69b152444744fca59f23ac4332f730)](https://www.codacy.com/gh/Pranesh-here/M1_Electricitybill-Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pranesh-here/M1_Electricitybill-Calculator&amp;utm_campaign=Badge_Grade) | ![Quality](https://api.codiga.io/project/32253/status/svg) ![quality](https://api.codiga.io/project/32253/score/svg)
 
 
+Unity Test | Git Inspector
+-----------------| ----------------
+[![Unit Testing - Unity](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/actions/workflows/unity.yml)
 
 ## Folder Structure
 Folder             | Description
