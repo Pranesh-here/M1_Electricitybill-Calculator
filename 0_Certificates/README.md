@@ -1,4 +1,4 @@
-This folder contains the following Certificates:
+This folder contains the following Certificates :
 
 * Sololearn Certificate for Basics of C Programming. [C_sololearn-Pranesh S.pdf](https://github.com/Pranesh-here/M1_Electricitybill-Calculator/files/8401968/C_sololearn-Pranesh.S.pdf)
 
